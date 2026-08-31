@@ -95,7 +95,7 @@ npm run preview
 
 **Om Gole**
 
-BSc IT Student | Machine Learning & AI Enthusiast
+MCA | Machine Learning & AI Enthusiast
 
 I'm passionate about learning new technologies and building practical projects. My current areas of interest include:
 
@@ -115,14 +115,15 @@ My goal is to continuously learn, build real-world projects, and grow as a techn
 https://github.com/omgole9109
 
 **LinkedIn:**
-*Add your LinkedIn profile link here*
+www.linkedin.com/in/
+omgole19
+Vanity URL name
 
-**Portfolio:**
-*Add your live portfolio link here*
 
 ## 📸 Portfolio Preview
 
-*Add a screenshot of your portfolio website here.*
+<img width="1882" height="877" alt="image" src="https://github.com/user-attachments/assets/76f4b6ff-220d-48e6-83f6-8fccfa52c313" />
+
 
 ## 📌 Status
 
